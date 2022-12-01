@@ -45,4 +45,4 @@ jobs:
           
       - name: webhook
         run: |
-          curl -X POST "http://193.191.176.70:9000/api/webhooks/b2964046-b5d0-42bf-a073-8f31a7fb28cb"
+          curl -X POST "http://193.191.176.70:9000/api/webhooks/951dd6cf-79c3-4f4b-8c3a-ec9026096110"
